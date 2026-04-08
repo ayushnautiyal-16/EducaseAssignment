@@ -1,41 +1,59 @@
-# Educase Assignment
+# 📱 Educase Assignment
 
-This project is a small React + Vite app that recreates the PopX onboarding flow with login, registration, and account settings screens.
+A modern React + Vite application that implements the PopX onboarding flow, featuring seamless user authentication and account management screens.
 
-## Tech Stack
+---
 
-- React 19
-- React Router
-- Vite
-- Tailwind CSS v4
+## 🛠️ Tech Stack
 
-## Run Locally
+| Technology       | Version |
+| ---------------- | ------- |
+| **React**        | 19      |
+| **React Router** | Latest  |
+| **Vite**         | Latest  |
+| **Tailwind CSS** | v4      |
 
-1. Install dependencies:
+---
 
-	```bash
-	npm install
-	```
+## 🚀 Getting Started
 
-2. Start the development server:
+### Prerequisites
 
-	```bash
-	npm run dev
-	```
+- Node.js (v16 or higher)
+- npm or yarn
 
-3. Build for production:
+### Installation & Development
 
-	```bash
-	npm run build
-	```
+**1. Install dependencies:**
 
-4. Preview the production build:
+```bash
+npm install
+```
 
-	```bash
-	npm run preview
-	```
+**2. Start the development server:**
 
-## Notes
+```bash
+npm run dev
+```
 
-- The app uses a fixed 375px canvas centered in the viewport to match the assignment layout.
-- The avatar and favicon assets live in `src/assets/img` and `public` respectively.
+The app will be available at `http://localhost:5173`
+
+**3. Build for production:**
+
+```bash
+npm run build
+```
+
+**4. Preview the production build:**
+
+```bash
+npm run preview
+```
+
+---
+
+## 📝 Project Notes
+
+- ✓ Fixed 375px canvas layout centered in the viewport to match assignment specifications
+- ✓ Avatar and favicon assets are stored in `src/assets/img` and `public` directories respectively
+- ✓ Responsive design optimized for mobile-first development
